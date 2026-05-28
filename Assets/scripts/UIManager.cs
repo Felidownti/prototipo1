@@ -5,7 +5,8 @@ using TMPro;
 
 public class UIManager : MonoBehaviour
 {
-    public TextMeshProUGUI txtScore;
+    public TextMeshProUGUI textPuntos;
+    public TextMeshProUGUI textTiempo;
 
     void Start()
     {
@@ -14,11 +15,11 @@ public class UIManager : MonoBehaviour
 
     public void UpdateScore(int score)
     {
-        txtScore.text = "puntos: " + score.ToString();
+        txtScore.text = score.ToString();
     }
 
     void Update()
     {
-        
+        txtTiempo.text = Time.time.ToString
     }
 }
