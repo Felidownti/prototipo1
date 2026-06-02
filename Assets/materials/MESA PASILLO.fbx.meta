@@ -1,15 +1,40 @@
 fileFormatVersion: 2
-guid: e6d5bb77a546f5b4483c7e77d8c1e771
+guid: 1d856d5c36ac87b429405ada7840b12f
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Mesa_Estante
+    100004: Mesa_Pata
+    100006: Mesa_Pata.001
+    100008: Mesa_Pata.002
+    100010: Mesa_Pata.003
     400000: //RootNode
-    2100000: No Name
+    400002: Mesa_Estante
+    400004: Mesa_Pata
+    400006: Mesa_Pata.001
+    400008: Mesa_Pata.002
+    400010: Mesa_Pata.003
+    2100000: Material_Tapa
+    2100002: Material_Metal
     2300000: //RootNode
+    2300002: Mesa_Estante
+    2300004: Mesa_Pata
+    2300006: Mesa_Pata.001
+    2300008: Mesa_Pata.002
+    2300010: Mesa_Pata.003
     3300000: //RootNode
-    4300000: Cube
-    2186277476908879412: ImportLogs
+    3300002: Mesa_Estante
+    3300004: Mesa_Pata
+    3300006: Mesa_Pata.001
+    3300008: Mesa_Pata.002
+    3300010: Mesa_Pata.003
+    4300000: Mesa_Tapa
+    4300002: Mesa_Estante
+    4300004: Mesa_Pata
+    4300006: Mesa_Pata.001
+    4300008: Mesa_Pata.002
+    4300010: Mesa_Pata.003
   externalObjects: {}
   materials:
     importMaterials: 1
