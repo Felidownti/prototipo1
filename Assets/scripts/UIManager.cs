@@ -15,11 +15,11 @@ public class UIManager : MonoBehaviour
 
     public void UpdateScore(int score)
     {
-        txtScore.text = score.ToString();
+        textPuntos.text = "puntos: " + score.ToString();
     }
 
-    void Update()
+    public void UpdateTiempo(float tiempo)
     {
-        txtTiempo.text = Time.time.ToString
+        textTiempo.text = "tiempo: " + tiempo.ToString("F2");
     }
 }

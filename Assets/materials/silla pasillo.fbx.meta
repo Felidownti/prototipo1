@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: e0ce50830dcc69043829791f96cf5ffb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Marco_LD
+    100002: Marco_LI
+    100004: //RootNode
+    100006: Tablon_0
+    100008: Tablon_1
+    100010: Tablon_2
+    100012: Tablon_3
+    100014: Varilla_Respaldo_0
+    100016: Varilla_Respaldo_1
+    100018: Varilla_Respaldo_2
+    400000: Marco_LD
+    400002: Marco_LI
+    400004: //RootNode
+    400006: Tablon_0
+    400008: Tablon_1
+    400010: Tablon_2
+    400012: Tablon_3
+    400014: Varilla_Respaldo_0
+    400016: Varilla_Respaldo_1
+    400018: Varilla_Respaldo_2
+    2100000: Metal_Rosa
+    2100002: Madera
+    2300000: Marco_LD
+    2300002: Marco_LI
+    2300004: Tablon_0
+    2300006: Tablon_1
+    2300008: Tablon_2
+    2300010: Tablon_3
+    2300012: Varilla_Respaldo_0
+    2300014: Varilla_Respaldo_1
+    2300016: Varilla_Respaldo_2
+    3300000: Marco_LD
+    3300002: Marco_LI
+    3300004: Tablon_0
+    3300006: Tablon_1
+    3300008: Tablon_2
+    3300010: Tablon_3
+    3300012: Varilla_Respaldo_0
+    3300014: Varilla_Respaldo_1
+    3300016: Varilla_Respaldo_2
+    4300000: Marco_LI
+    4300002: Marco_LD
+    4300004: Varilla_Respaldo_0
+    4300006: Varilla_Respaldo_1
+    4300008: Varilla_Respaldo_2
+    4300010: Tablon_0
+    4300012: Tablon_1
+    4300014: Tablon_2
+    4300016: Tablon_3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
