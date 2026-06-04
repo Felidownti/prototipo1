@@ -8,7 +8,7 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance;
 
     public int scoreActual = 0;
-    public int scoreMaximo = 3;
+    public int scoreMaximo = 4;
     public float tiempoRestante = 15f;
 
     private bool juegoTerminado = false;
