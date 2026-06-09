@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f117f95a680b2a5409f0b8db2beb53bb
+guid: 94a2c380af1a86444b84194e7d4d52c0
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -10,7 +10,8 @@ ModelImporter:
     100008: Cylinder.002
     100010: Cylinder.003
     100012: Cylinder.004
-    100014: //RootNode
+    100014: Cylinder.005
+    100016: //RootNode
     400000: Cube.001
     400002: Cube.002
     400004: Cylinder
@@ -18,11 +19,13 @@ ModelImporter:
     400008: Cylinder.002
     400010: Cylinder.003
     400012: Cylinder.004
-    400014: //RootNode
+    400014: Cylinder.005
+    400016: //RootNode
     2100000: Material.005
     2100002: Material.003
-    2100004: Material.001
-    2100006: Material.002
+    2100004: Material.002
+    2100006: Material.004
+    2100008: Material.006
     2300000: Cube.001
     2300002: Cube.002
     2300004: Cylinder
@@ -30,6 +33,7 @@ ModelImporter:
     2300008: Cylinder.002
     2300010: Cylinder.003
     2300012: Cylinder.004
+    2300014: Cylinder.005
     3300000: Cube.001
     3300002: Cube.002
     3300004: Cylinder
@@ -37,6 +41,7 @@ ModelImporter:
     3300008: Cylinder.002
     3300010: Cylinder.003
     3300012: Cylinder.004
+    3300014: Cylinder.005
     4300000: Cube.001
     4300002: Cube.002
     4300004: Cylinder
@@ -44,6 +49,7 @@ ModelImporter:
     4300008: Cylinder.002
     4300010: Cylinder.003
     4300012: Cylinder.004
+    4300014: Cylinder.005
   externalObjects: {}
   materials:
     importMaterials: 1
