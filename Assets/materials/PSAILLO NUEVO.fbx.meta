@@ -1,19 +1,78 @@
 fileFormatVersion: 2
-guid: e8001a5bae5435e4eb556f39da32a105
+guid: 4d0de1fc3db2f2b47b15bc3bf2a1c916
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
-    2100000: Material.002
-    2100002: Material.007
-    2100004: Material.003
-    2100006: Material.004
-    2100008: Material.005
-    2100010: Material.006
-    2300000: //RootNode
-    3300000: //RootNode
+    100000: Cube
+    100002: Cylinder.001
+    100004: pared de adelante
+    100006: pared de atras
+    100008: pared de atras.001
+    100010: pared derecha
+    100012: pared izquierda
+    100014: piso
+    100016: //RootNode
+    100018: techo
+    400000: Cube
+    400002: Cylinder.001
+    400004: pared de adelante
+    400006: pared de atras
+    400008: pared de atras.001
+    400010: pared derecha
+    400012: pared izquierda
+    400014: piso
+    400016: //RootNode
+    400018: techo
+    2100000: No Name
+    2100002: Material.037
+    2100004: Material.036
+    2100006: Material.022
+    2100008: Material.026
+    2100010: Material.024
+    2100012: Material.028
+    2100014: Material.027
+    2100016: Material.001
+    2100018: Material.003
+    2100020: Material.004
+    2100022: Material.029
+    2100024: Material.030
+    2100026: Material.016
+    2100028: Material.031
+    2100030: Material.032
+    2100032: Material.033
+    2100034: Material.038
+    2100036: Material.035
+    2100038: Material.034
+    2100040: Material.006
+    2100042: Material.018
+    2100044: Material.005
+    2300000: Cube
+    2300002: Cylinder.001
+    2300004: pared de adelante
+    2300006: pared de atras
+    2300008: pared de atras.001
+    2300010: pared derecha
+    2300012: pared izquierda
+    2300014: piso
+    2300016: techo
+    3300000: Cube
+    3300002: Cylinder.001
+    3300004: pared de adelante
+    3300006: pared de atras
+    3300008: pared de atras.001
+    3300010: pared derecha
+    3300012: pared izquierda
+    3300014: piso
+    3300016: techo
     4300000: Cube
+    4300002: Cylinder.001
+    4300004: pared de adelante
+    4300006: pared de atras
+    4300008: pared de atras.001
+    4300010: pared derecha
+    4300012: pared izquierda
+    4300014: piso
+    4300016: techo
   externalObjects: {}
   materials:
     importMaterials: 1
