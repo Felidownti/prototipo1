@@ -66,9 +66,6 @@ public class GameManager : MonoBehaviour
         juegoTerminado = true;
         Time.timeScale = 0;
 
-        if (gano)
-            Debug.Log("Ganaste");
-        else
-            Debug.Log("Perdiste");
+        uiManager.MostrarResultado(gano);
     }
 }
